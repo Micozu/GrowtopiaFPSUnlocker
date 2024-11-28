@@ -12,3 +12,6 @@ The application uses `psutil` for fetching running processes, `Pillow` for captu
 - **Process Filtering**: Filter the process list by typing in the search bar.
 
   # Sadly its too big to upload to github so i provided link for it: https://filepost.io/d/MKnXcqzF1s
+
+  ![image](https://github.com/user-attachments/assets/f4c57af7-0ad7-4c78-9479-07bc958afaff)
+
