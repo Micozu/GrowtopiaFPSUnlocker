@@ -10,3 +10,5 @@ The application uses `psutil` for fetching running processes, `Pillow` for captu
 - **FPS Display**: Show real-time FPS of the selected process.
 - **Overlay FPS**: Display the FPS in the top-left corner of the window for the selected application.
 - **Process Filtering**: Filter the process list by typing in the search bar.
+
+  # Sadly its too big to upload to github so i provided link for it: https://filepost.io/d/MKnXcqzF1s
